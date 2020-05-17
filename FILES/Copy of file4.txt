@@ -1,0 +1,4 @@
+bye
+good morning
+welcome to c programming
+have a good day
